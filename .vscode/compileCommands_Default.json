@@ -1,0 +1,57 @@
+[
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\Gun.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\Gun.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\MyPawn.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\MyPawn.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\ShooterCharacter.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\ShooterCharacter.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterGameModeBase.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooterGameModeBase.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Usuario\\Documents\\GitHub\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
