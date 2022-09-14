@@ -27,7 +27,6 @@ private:
 	void MoveRight(float AxisValue);
 	void LookUpRate(float AxisValue);
 	void LookRightRate(float AxisValue);
-	void Shoot();
 
 	UPROPERTY(EditAnywhere)
 	float RotationRate = 20.f;
@@ -44,8 +43,6 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	float Health  = 100;
 
-	bool bIsDead = false;
-
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
@@ -57,4 +54,6 @@ public:
 
 	UFUNCTION(BlueprintPure)
 	bool IsDead() const;
+
+	void Shoot();
 };
