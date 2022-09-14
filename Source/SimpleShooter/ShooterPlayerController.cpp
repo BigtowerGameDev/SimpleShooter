@@ -5,10 +5,25 @@
 #include "TimerManager.h"
 #include "Blueprint/UserWidget.h"
 
+// Called when the game starts or when spawned
+void AShooterPlayerController::BeginPlay()
+{
+	Super::BeginPlay();
+
+    HUDScreen = CreateWidget(this, HUDClass);
+    if(HUDScreen != nullptr)
+    {
+        HUDScreen->AddToViewport();
+    }
+	
+}
 void AShooterPlayerController::GameHasEnded(class AActor* EndGameFocus, bool bIsWinner)
 {
     Super::GameHasEnded(EndGameFocus, bIsWinner);
-
+    if(HUDScreen != nullptr)
+    {
+        HUDScreen->RemoveFromViewport();
+    }
     if(bIsWinner)
     {
         UUserWidget* WinScreen = CreateWidget(this, WinScreenClass);
