@@ -38,6 +38,14 @@ private:
 	UPROPERTY(EditDefaultsOnly)
 	AGun* Gun;
 
+	UPROPERTY(EditDefaultsOnly)
+	float MaxHealth  = 100;
+
+	UPROPERTY(VisibleAnywhere)
+	float Health  = 100;
+
+	bool bIsDead = false;
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
@@ -45,4 +53,8 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+	virtual float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser) override;
+
+	UFUNCTION(BlueprintPure)
+	bool IsDead() const;
 };
